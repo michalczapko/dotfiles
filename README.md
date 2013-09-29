@@ -11,4 +11,4 @@ To install dotfiles just run the bash scripts install.sh from within the scripts
 
 Yeah, just in case I have the script to uninstall dotfiles:
 
-`. ~/dotfiles/scripts/install.sh`
+`. ~/dotfiles/scripts/uninstall.sh`
